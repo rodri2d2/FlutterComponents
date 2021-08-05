@@ -43,4 +43,4 @@ This is a sample application to learn and understand how does Flutter components
 > ## Author
 >Check my LinkedIn profile to know more about me. Feel free to contact for any question. 
 >
->[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rodricandido)
+>[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodricandido)
