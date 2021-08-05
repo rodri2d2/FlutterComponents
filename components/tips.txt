@@ -1,0 +1,29 @@
+
+Dart
+    Use "_" when you want to be a file private function, vars or objects
+    Some kind of array object you can go back into and keeps adding.
+    e.g.:
+        List<int> list = [];
+        list.add(1);
+        list.add(2);
+
+        The code below works the same way
+
+        list..add(1)
+            ..add(2)
+
+    Dart has map function
+
+
+
+Flutter
+
+    The easiest way to insert an icon on Flutter is to use Icon() class.
+    e.g.:
+        Icon( Icons.add )
+        Icons comme from material icons https://fonts.google.com/icons
+
+
+
+Install Flutter Code Snippets
+    mateapp -> Will generate boiler plate code to start with
