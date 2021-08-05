@@ -37,9 +37,8 @@ This is a sample application to learn and understand how does Flutter components
 
 
 ## Samples UP TO NOW...
-
-<p float="left">
 Add TableView/ListView
+<p float="left">
 <img src="https://github.com/rodri2d2/FlutterComponents/blob/develop/gifs/upToNow_ListView.gif" width="200" />
 <br />
 
