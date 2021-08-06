@@ -6,6 +6,9 @@ As part of become a senior mobile developer I decided to cover properly two part
 
 iOS is still my main goal and of course I am working hard on it.
 However I decided also to take Flutter on a different level. I understood how practical it could be to help me or my clients get the required MVP and decide the feasibility of the project. And also it is sooo fun!!!
+
+To create this app I based on tecnical resourses from official documentation, youtube, stackoverflow, medium and even some zero to hero tutorials.
+
 <br />
 
 
