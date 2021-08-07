@@ -23,7 +23,19 @@ Flutter
         Icon( Icons.add )
         Icons comme from material icons https://fonts.google.com/icons
 
+    When inserts a new static file PUBSPEC.YAML have to be notified. There is a assets tab.
+    Use the commented exemple on assests to understand how to import self assets. After should update and
+    full reload of the app
+
+    Use Column and Row to stack "views" and one direction or another
+    Both classes has an element childrem [], which demands a array of Widgets
+
+    When use FadeImage first of all load both static and maybe a NetworkImage before any other property on the constructor
+
+    Class Container() will has the same with and height of item inside it
 
 
 Install Flutter Code Snippets
     mateapp -> Will generate boiler plate code to start with
+    importM -> Will import material package
+    importC -> Will import Cupertino package

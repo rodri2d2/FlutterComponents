@@ -1,4 +1,5 @@
 //Flutter imports
+import 'package:components/src/views/Alert/alert_view.dart';
 import 'package:flutter/material.dart';
 
 //Self imports
@@ -24,13 +25,13 @@ class HomeView extends StatelessWidget {
       initialData: [],
       builder: (BuildContext context, AsyncSnapshot<List<dynamic>> snapshot){
           return ListView(
-            children: _listItems(snapshot.data!),
+            children: _listItems(snapshot.data!, context),
           );
       },
     );
   }
 
-  List<Widget> _listItems(List<dynamic> data) {
+  List<Widget> _listItems(List<dynamic> data, BuildContext context) {
 
     final List<Widget> optionsTile =[];
     
@@ -39,7 +40,9 @@ class HomeView extends StatelessWidget {
           title: Text(item['text']),
           leading: getIcon(item['icon']),
           trailing: Icon(Icons.chevron_right, color: Colors.blue),
-          onTap: (){}
+          onTap: (){
+            Navigator.pushNamed(context, item['route']);
+          }
         );
         
         optionsTile..add(widget)

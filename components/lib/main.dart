@@ -1,6 +1,10 @@
 //Flutter imports
 import 'package:flutter/material.dart';
 
+
+//Import Routes
+import 'package:components/src/routes/routes.dart';
+
 //Self imports
 import 'package:components/src/views/Home/home_view.dart';
 
@@ -14,7 +18,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,//Turn off annoying banner on right conn
       title: 'Material App',
-      home: HomeView()
+      initialRoute: '/',
+      routes: getAppRoutes(),
     );
   }
 }
