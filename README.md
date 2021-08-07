@@ -30,9 +30,9 @@ This is a sample application to learn and understand how does Flutter components
 
 ### This app will implement:
 
-- [ ] Dart
-- [ ] Flutter
-- [ ] Don't know yet, but it will be something
+- [X] Dart
+- [X] Flutter
+- [ ] Don't know yet, but it will be something else
 
 
 
@@ -40,7 +40,7 @@ This is a sample application to learn and understand how does Flutter components
 
 
 ## Samples UP TO NOW...
-Add TableView/ListView
+Up to now...
 <p float="left">
 <img src="https://github.com/rodri2d2/FlutterComponents/blob/develop/gifs/upToNow_ListView.gif" width="200" />
 <br />
