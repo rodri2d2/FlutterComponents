@@ -34,6 +34,8 @@ Flutter
 
     Class Container() will has the same with and height of item inside it
 
+    barrierDismissible property allows to dismiss a AlertDialog by clicking outside the box
+
 
 Install Flutter Code Snippets
     mateapp -> Will generate boiler plate code to start with
