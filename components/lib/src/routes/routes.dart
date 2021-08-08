@@ -1,5 +1,3 @@
-
-
 import 'package:flutter/material.dart';
 
 //Views
@@ -8,6 +6,7 @@ import 'package:components/src/views/Avatars/avatars_view.dart';
 import 'package:components/src/views/Home/home_view.dart';
 import 'package:components/src/views/Cards/card_view.dart';
 import 'package:components/src/views/AnimatedContainer/animated_container.dart';
+import 'package:components/src/views/Input/input_view.dart';
 
 
 ///This function returs every route on this app
@@ -19,6 +18,7 @@ Map<String, WidgetBuilder> getAppRoutes(){
     'alert'     : (BuildContext context)  => AlertView(),
     'avatar'    : (BuildContext context)  => AvatarstView(),
     'card'      : (BuildContext context)  => CardView(),
-    'animated'  : (BuildContext context)  => AnimatingContainer()
+    'animated'  : (BuildContext context)  => AnimatingContainer(),
+    'inputs'    : (BuildContext context)  => InputView()
   };
 }

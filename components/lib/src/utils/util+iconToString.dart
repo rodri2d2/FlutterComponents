@@ -9,7 +9,8 @@ final _icons = <String, IconData>{
   "folder_open" : Icons.folder_open,
   "photo"       : Icons.photo_album,
   "container"   : Icons.takeout_dining_outlined,
-  "play"        : Icons.play_arrow
+  "play"        : Icons.play_arrow,
+  "input"       : Icons.input
 
 };
 
