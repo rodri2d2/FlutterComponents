@@ -32,17 +32,13 @@ This is a sample application to learn and understand how does Flutter components
 
 - [X] Dart
 - [X] Flutter
-- [ ] Don't know yet, but it will be something else
-
-
 
 <br />
 
 
-## Samples UP TO NOW...
-Up to now...
+## Sample
 <p float="left">
-<img src="https://github.com/rodri2d2/FlutterComponents/blob/develop/gifs/upToNow_ListView.gif" width="200" />
+<img src="https://github.com/rodri2d2/FlutterComponents/blob/develop/gifs/appFineshed.gif" width="200" />
 <br />
 
 
