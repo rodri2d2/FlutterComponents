@@ -9,7 +9,17 @@ final _icons = <String, IconData>{
   "folder_open" : Icons.folder_open,
   "photo"       : Icons.photo_album,
   "container"   : Icons.takeout_dining_outlined,
-  "play"        : Icons.play_arrow
+  "play"        : Icons.play_arrow,
+  "input"       : Icons.input,
+  "account"     : Icons.account_circle,
+  "accessibility" : Icons.accessibility,
+  "at"            : Icons.alternate_email,
+  "email"         : Icons.email,
+  "lockOP"        : Icons.lock_open,
+  "lock"          : Icons.lock,
+  "calendar"      : Icons.calendar_today,
+  "slider"        : Icons.adjust_outlined,
+  "switch"        : Icons.check_box
 
 };
 
