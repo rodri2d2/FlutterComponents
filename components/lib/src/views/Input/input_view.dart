@@ -160,7 +160,7 @@ class _InputViewState extends State<InputView> {
 
   Widget _makeDropDown(){
 
-    return DropdownButton(
+    return DropdownButton<dynamic>(
       items: getDropDownOptions(),
       value: _selectedOption,
       onChanged: (itemOption){

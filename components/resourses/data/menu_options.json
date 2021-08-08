@@ -25,6 +25,16 @@
             "route" : "inputs",
             "icon" : "input",
             "text": "Inputs"
+        },
+        {
+            "route" : "slider",
+            "icon" : "slider",
+            "text": "Slider"
+        },
+        {
+            "route" : "switch",
+            "icon" : "switch",
+            "text": "Switch and Checks"
         }
 
     ]
