@@ -12,15 +12,15 @@ final _icons = <String, IconData>{
   "play"        : Icons.play_arrow,
   "input"       : Icons.input,
   "account"     : Icons.account_circle,
+  "at"          : Icons.alternate_email,
+  "email"       : Icons.email,
+  "lockOP"      : Icons.lock_open,
+  "lock"        : Icons.lock,
+  "calendar"    : Icons.calendar_today,
+  "slider"      : Icons.adjust_outlined,
+  "switch"      : Icons.check_box,
+  "list"        : Icons.list,
   "accessibility" : Icons.accessibility,
-  "at"            : Icons.alternate_email,
-  "email"         : Icons.email,
-  "lockOP"        : Icons.lock_open,
-  "lock"          : Icons.lock,
-  "calendar"      : Icons.calendar_today,
-  "slider"        : Icons.adjust_outlined,
-  "switch"        : Icons.check_box
-
 };
 
 ///Will return a Icon based on an already registered icon name.

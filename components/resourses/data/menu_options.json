@@ -35,7 +35,18 @@
             "route" : "switch",
             "icon" : "switch",
             "text": "Switch and Checks"
+        },
+        {
+            "route" : "list",
+            "icon" : "list",
+            "text": "List View"
+        },
+        {
+            "route" : "listFuture",
+            "icon" : "list",
+            "text": "List View Future"
         }
+
 
     ]
 }
