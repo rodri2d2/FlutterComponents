@@ -10,6 +10,8 @@ import 'package:components/src/views/AnimatedContainer/animated_container.dart';
 import 'package:components/src/views/Input/input_view.dart';
 import 'package:components/src/views/Slider/slider_view.dart';
 import 'package:components/src/views/SwitchesCheboxes/switches_view.dart';
+import 'package:components/src/views/ListView/list_view_builder.dart';
+import 'package:components/src/views/ListViewFuture/list_view_with_future.dart';
 
 
 ///This function returs every route on this app
@@ -24,6 +26,8 @@ Map<String, WidgetBuilder> getAppRoutes(){
     'animated'  : (BuildContext context)  => AnimatingContainer(),
     'inputs'    : (BuildContext context)  => InputView(),
     'slider'    : (BuildContext context)  => SliderView(),
-    'switch'    : (BuildContext context)  => CheckAndSwitches()
+    'switch'    : (BuildContext context)  => CheckAndSwitches(),
+    'list'      : (BuildContext context)  => TableListView(),
+    'listFuture': (BuildContext context)  => TableListViewFuture()
   };
 }
