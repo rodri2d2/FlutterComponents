@@ -36,6 +36,8 @@ Flutter
 
     barrierDismissible property allows to dismiss a AlertDialog by clicking outside the box
 
+    When creating a Dropdown Menu the value MUST have a actual value, empty String will fail
+
 
 Install Flutter Code Snippets
     mateapp -> Will generate boiler plate code to start with
