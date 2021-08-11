@@ -26,8 +26,6 @@ This is a sample application to learn and understand how does Flutter components
 
 ```
 
-> NOTE: App not finished yet
-
 ### This app will implement:
 
 - [X] Dart
